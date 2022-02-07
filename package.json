@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yura-generals/js-2021-12/issues"
   },
-  "homepage": "https://github.com/yura-generals/js-2021-12#readme"
+  "homepage": "https://github.com/yura-generals/js-2021-12#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
